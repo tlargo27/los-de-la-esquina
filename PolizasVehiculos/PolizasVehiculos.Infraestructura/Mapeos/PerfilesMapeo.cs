@@ -12,6 +12,13 @@ namespace PolizasVehiculos.Infraestructura.Mapeos
         public PerfilesMapeo() {
             CreateMap<Pais, PaisDTO>().ReverseMap();
             CreateMap<Seguridad, SeguridadDTO>().ReverseMap();
+            CreateMap<Producto, ProductoDTO>().ReverseMap();
+            CreateMap<ProductoPais, ProductoPaisDTO>().ReverseMap();
+            CreateMap<Vehiculo, VehiculoDTO>().ReverseMap();
+            CreateMap<Usuario, UsuarioDTO>().ReverseMap();
+            CreateMap<VehiculoUsuario, VehiculoUsuarioDTO>().ReverseMap();
+            CreateMap<Poliza, PolizaDTO>().ReverseMap();
+            CreateMap<ProductoPoliza, ProductoPolizaDTO>().ReverseMap();
         }
     }
 }

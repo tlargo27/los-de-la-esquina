@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {}
+    "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
+    "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
         "projectName": "PolizasVehiculos.Core",
-        "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
+        "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
         "packagesPath": "C:\\Users\\mjcorrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\obj\\",
+        "outputPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -7,3 +7,12 @@ C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\
 C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.csproj.CoreCompileInputs.cache
 C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
 C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.csproj.AssemblyReference.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.AssemblyInfoInputs.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.AssemblyInfo.cs
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.deps.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Core\obj\Debug\netcoreapp3.1\PolizasVehiculos.Core.csproj.CoreCompileInputs.cache

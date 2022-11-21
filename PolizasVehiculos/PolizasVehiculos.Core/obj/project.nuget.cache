@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "07brOlstN0v4OIWFuq8+QWbsiXeMwUsPJcwCKTaeytPx2XXUBR80jXHWIDlJEVa9bl6h3rjXkmdr9BMh+uTIoQ==",
+  "dgSpecHash": "tYwOh4r6KWH/bxIQa0YRjK2FioUzwBOWnoRJpeqkRCyGQ9xsckmdJJINYm6cupgrdMSg7JcnccmCPZ02AxXDZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjcorrea\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.11\\microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\mjcorrea\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512"
+  ],
   "logs": []
 }

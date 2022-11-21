@@ -12,6 +12,14 @@ namespace PolizasVehiculos.Core.Interfaces
 
         ISeguridadRepositorio SeguridadRepositorio { get; }
 
+        IProductoRepositorio ProductoRepositorio { get; }
+
+        IVehiculoRepositorio VehiculoRepositorio { get; }
+
+        IUsuarioRepositorio UsuarioRepositorio { get; }
+
+        IPolizaRepositorio PolizaRepositorio { get; }
+
         void SaveChanges();
 
         Task SaveChangesAsync();

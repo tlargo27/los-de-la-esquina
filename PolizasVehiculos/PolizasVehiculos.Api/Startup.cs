@@ -90,6 +90,10 @@ namespace PolizasVehiculos.Api
             //services.AddTransient<IPaisRepositorio,PaisRepositorio>();
             services.AddTransient<IPaisServicio, PaisServicio>();
             services.AddTransient<ISeguridadServicio, SeguridadServicio>();
+            services.AddTransient<IProductoServicio, ProductoServicio>();
+            services.AddTransient<IVehiculoServicio, VehiculoServicio>();
+            services.AddTransient<IUsuarioServicio, UsuarioServicio>();
+            services.AddTransient<IPolizaServicio, PolizaServicio>();
             services.AddScoped(typeof(IRepositorio<>), typeof(RepositorioBase<>));
             services.AddTransient<IUnidadDeTrabajo, UnidadDeTrabajo>();
 

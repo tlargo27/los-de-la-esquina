@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj": {}
+    "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj": {
+    "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj",
+        "projectUniqueName": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj",
         "projectName": "PolizasVehiculos.Api",
-        "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj",
+        "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Api\\PolizasVehiculos.Api.csproj",
         "packagesPath": "C:\\Users\\mjcorrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Api\\obj\\",
+        "outputPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
-                "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj"
+              "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
+                "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj"
               },
-              "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj": {
-                "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj"
+              "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
+    "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
         "projectName": "PolizasVehiculos.Core",
-        "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
+        "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
         "packagesPath": "C:\\Users\\mjcorrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\obj\\",
+        "outputPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -133,6 +133,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -152,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj": {
+    "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj",
         "projectName": "PolizasVehiculos.Infraestructura",
-        "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj",
+        "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\PolizasVehiculos.Infraestructura.csproj",
         "packagesPath": "C:\\Users\\mjcorrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -179,8 +185,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
-                "projectPath": "C:\\Users\\mjcorrea\\source\\repos\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj"
+              "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj": {
+                "projectPath": "C:\\Users\\mjcorrea\\Documents\\los-de-la-esquina\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj"
               }
             }
           }
